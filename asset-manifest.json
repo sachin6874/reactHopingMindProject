@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactHopingMindProject/static/css/main.953c14f5.css",
+    "main.js": "/reactHopingMindProject/static/js/main.235c5e7c.js",
+    "static/media/logo3.jpg": "/reactHopingMindProject/static/media/logo3.36375414a76c607907d2.jpg",
+    "static/media/logo2.jpg": "/reactHopingMindProject/static/media/logo2.4020b41586021f990a2c.jpg",
+    "static/media/logo4.jpg": "/reactHopingMindProject/static/media/logo4.6ebee3df925291260c17.jpg",
+    "index.html": "/reactHopingMindProject/index.html",
+    "main.953c14f5.css.map": "/reactHopingMindProject/static/css/main.953c14f5.css.map",
+    "main.235c5e7c.js.map": "/reactHopingMindProject/static/js/main.235c5e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953c14f5.css",
+    "static/js/main.235c5e7c.js"
+  ]
+}
